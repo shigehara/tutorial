@@ -1,0 +1,24 @@
+■PSD
+[x]Wed_index PC 0.5H
+[x]Wed_index SP 0.5H
+
+[x]Wed_point PC 0.5H
+[x]Wed_point SP 0.5H
+
+[x]Wed_movie PC 0.5H
+[x]Wed_movie SP 1.5H
+
+--19:00 design end
+
+■HTML
+[]Wed_index PC
+[]Wed_index SP
+
+[]Wed_point PC
+[]Wed_point SP
+
+[]Wed_movie PC
+[]Wed_movie SP
+
+40分づつ
+--20:00 html end
